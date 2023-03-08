@@ -1,0 +1,25 @@
+body{
+    background-color: #0e1010;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    width:360px;
+    height: 620px;
+    margin:auto;
+    background-color: grey;
+    border-radius: 3px;
+}
+h1{
+    text-align:center;
+    padding-top:12px;
+}
+form{
+    width:300px;
+    margin-left: 20px;
+
+}
+form label1{
+    display:flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
